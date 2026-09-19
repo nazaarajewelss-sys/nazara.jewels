@@ -17,7 +17,7 @@ const BENEFITS = [
     number: '02',
     title: 'Affordable luxury',
     description:
-      'High-grade 18K gold plating and lustrous stones delivered without traditional exorbitant fine-jewellery markups.',
+      'High-grade gold plating theme and lustrous stones delivered without traditional exorbitant fine-jewellery markups.',
   },
   {
     icon: Layers,

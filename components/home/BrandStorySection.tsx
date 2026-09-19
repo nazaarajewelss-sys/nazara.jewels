@@ -72,7 +72,7 @@ export function BrandStorySection() {
             {/* Value Highlights */}
             <div className="grid grid-cols-2 gap-4 pt-4 border-t border-sand-200 text-xs">
               <div>
-                <p className="font-serif text-base text-charcoal-900 font-semibold">18K Gold Plated</p>
+                <p className="font-serif text-base text-charcoal-900 font-semibold">Gold Plated Theme</p>
                 <p className="text-taupe-500 mt-0.5">Lustrous warmth crafted for long-lasting daily wear.</p>
               </div>
               <div>
