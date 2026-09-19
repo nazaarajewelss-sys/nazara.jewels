@@ -17,7 +17,7 @@ const ANNOUNCEMENTS = [
     href: '/categories',
   },
   {
-    text: '18K Gold Plated • Hypoallergenic • Anti-Tarnish Quality',
+    text: 'Gold Plated Theme • Hypoallergenic • Anti-Tarnish Quality',
     cta: 'Our Philosophy',
     href: '/about',
   },
