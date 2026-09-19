@@ -96,7 +96,7 @@ export function HeroSection() {
             </div>
             <div className="flex items-center gap-1.5">
               <span className="w-1.5 h-1.5 rounded-full bg-wine-700" />
-              <span>18K Gold Plated</span>
+              <span>Gold Theme Plated </span>
             </div>
             <div className="flex items-center gap-1.5 hidden sm:flex">
               <span className="w-1.5 h-1.5 rounded-full bg-wine-700" />
